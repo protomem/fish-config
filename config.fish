@@ -9,4 +9,4 @@ alias g git
 alias k kubectl
 
 source ~/.asdf/asdf.fish
-oh-my-posh init fish --config /home/protomem/.cache/oh-my-posh/themes/tokyo.omp.json | source
+oh-my-posh init fish --config /home/protomem/.cache/oh-my-posh/themes/tokyonight_storm.omp.json | source
